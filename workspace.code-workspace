@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "images"
+		},
+		{
+			"path": "sound"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "sydhjsTemPlate-main"
+	}
+}
